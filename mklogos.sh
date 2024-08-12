@@ -1,6 +1,8 @@
 #!/bin/sh
 set -e
 
+# todo... figure out how this works. interesting
+
 baseurl=https://raw.githubusercontent.com/archlinux/archweb/44336237bcaadb07d01c1f83fb97a9dc56cda56d/public/static/logos/
 
 mklogo() (
