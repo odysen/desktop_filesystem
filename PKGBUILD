@@ -1,14 +1,15 @@
 # Maintainer: David Runge <dvzrv@archlinux.org>
+# Maintainer: Keri <kerichuudev@gmail.com>
 # Maintainer: Sébastien Luttringer
 # Contributor: Tom Gundersen <teg@jklm.no>
 
 pkgname=filesystem
-pkgver=2024.04.07
+pkgver=2024.12.08
 pkgrel=1
-pkgdesc='Base Arch Linux files'
+pkgdesc='Base Odysen Desktop files'
 arch=('any')
 license=('GPL-3.0-or-later')
-url='https://archlinux.org'
+url='https://odysen.space'
 depends=('iana-etc')
 backup=(
   'etc/crypttab'
