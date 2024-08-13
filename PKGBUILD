@@ -32,10 +32,10 @@ backup=(
 )
 source=(
   'arch-release'
-  'archlinux-logo.png'
-  'archlinux-logo.svg'
-  'archlinux-logo-text.svg'
-  'archlinux-logo-text-dark.svg'
+  'odysen-logo.png'
+  'odysen-logo.svg'
+  'odysen-logo-text.svg'
+  'odysen-logo-text-dark.svg'
   'crypttab'
   'env-generator'
   'fstab'
@@ -215,10 +215,10 @@ package() {
     ["usr/share/factory/etc/shells"]="shells:644:0:0"
     ["usr/share/factory/etc/subgid"]="subgid:644:0:0"
     ["usr/share/factory/etc/subuid"]="subuid:644:0:0"
-    ["usr/share/pixmaps/archlinux-logo.png"]="archlinux-logo.png:644:0:0"
-    ["usr/share/pixmaps/archlinux-logo.svg"]="archlinux-logo.svg:644:0:0"
-    ["usr/share/pixmaps/archlinux-logo-text.svg"]="archlinux-logo-text.svg:644:0:0"
-    ["usr/share/pixmaps/archlinux-logo-text-dark.svg"]="archlinux-logo-text-dark.svg:644:0:0"
+    ["usr/share/pixmaps/odysen-logo.png"]="odysen-logo.png:644:0:0"
+    ["usr/share/pixmaps/odysen-logo.svg"]="odysen-logo.svg:644:0:0"
+    ["usr/share/pixmaps/odysen-logo-text.svg"]="odysen-logo-text.svg:644:0:0"
+    ["usr/share/pixmaps/odysen-logo-text-dark.svg"]="odysen-logo-text-dark.svg:644:0:0"
   )
 
   cd "$pkgdir"
