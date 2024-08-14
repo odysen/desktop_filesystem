@@ -5,7 +5,7 @@
 
 pkgname=filesystem
 pkgver=2024.14.08
-pkgrel=2
+pkgrel=3
 pkgdesc='Base Odysen Desktop files'
 arch=('any')
 license=('GPL-3.0-or-later')
