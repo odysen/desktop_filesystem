@@ -1,7 +1,7 @@
 pkgbase = filesystem
 	pkgdesc = Base Odysen Desktop files
 	pkgver = 2024.14.08
-	pkgrel = 1
+	pkgrel = 2
 	url = https://odysen.space
 	arch = any
 	license = GPL-3.0-or-later
