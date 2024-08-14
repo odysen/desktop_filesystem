@@ -32,10 +32,10 @@ backup=(
 )
 source=(
   'arch-release'
-  'odysen-logo.png'
-  'odysen-logo.svg'
-  'odysen-logo-text.svg'
-  'odysen-logo-text-dark.svg'
+  'odysendesktop-logo.png'
+  'odysendesktop-logo.svg'
+  'odysendesktop-logo-text.svg'
+  'odysendesktop-logo-text-dark.svg'
   'crypttab'
   'env-generator'
   'fstab'
@@ -215,10 +215,10 @@ package() {
     ["usr/share/factory/etc/shells"]="shells:644:0:0"
     ["usr/share/factory/etc/subgid"]="subgid:644:0:0"
     ["usr/share/factory/etc/subuid"]="subuid:644:0:0"
-    ["usr/share/pixmaps/odysen-logo.png"]="odysen-logo.png:644:0:0"
-    ["usr/share/pixmaps/odysen-logo.svg"]="odysen-logo.svg:644:0:0"
-    ["usr/share/pixmaps/odysen-logo-text.svg"]="odysen-logo-text.svg:644:0:0"
-    ["usr/share/pixmaps/odysen-logo-text-dark.svg"]="odysen-logo-text-dark.svg:644:0:0"
+    ["usr/share/pixmaps/odysendesktop-logo.png"]="odysendesktop-logo.png:644:0:0"
+    ["usr/share/pixmaps/odysendesktop-logo.svg"]="odysendesktop-logo.svg:644:0:0"
+    ["usr/share/pixmaps/odysendesktop-logo-text.svg"]="odysendesktop-logo-text.svg:644:0:0"
+    ["usr/share/pixmaps/odysendesktop-logo-text-dark.svg"]="odysendesktop-logo-text-dark.svg:644:0:0"
   )
 
   cd "$pkgdir"
