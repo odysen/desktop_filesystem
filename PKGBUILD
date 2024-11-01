@@ -4,8 +4,8 @@
 # Contributor: Tom Gundersen <teg@jklm.no>
 
 pkgname=filesystem
-pkgver=2024.14.08
-pkgrel=3
+pkgver=2024.01.11
+pkgrel=1
 pkgdesc='Base Odysen Desktop files'
 arch=('any')
 license=('GPL-3.0-or-later')
