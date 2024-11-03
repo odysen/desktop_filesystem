@@ -4,7 +4,7 @@
 # Contributor: Tom Gundersen <teg@jklm.no>
 
 pkgname=filesystem
-pkgver=2024.02.11
+pkgver=2024.03.11
 pkgrel=1
 pkgdesc='Base Odysen Desktop files'
 arch=('any')
